@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>QMK Toolbox Changelog</title>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>0.0.22</title>
+            <sparkle:version>0.0.22</sparkle:version>
+            <pubDate>2021-06-06T00:00:00Z</pubDate>
+            <enclosure
+                url="https://github.com/fauxpark/qmk_toolbox/releases/download/0.0.22/QMK.Toolbox.app.zip"
+                sparkle:edSignature="bVaxu/mj6sO1VrHzoBxnR1sVOOmWpqWvBTyTKU+2WPrNGuwgiFp7fVnDhElJeTgOpnCbGirG8f3QiFvbJliRDg=="
+                length="507336"
+                type="application/octet-stream" />
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+        </item>
+    </channel>
+</rss>
